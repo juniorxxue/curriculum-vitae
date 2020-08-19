@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Xue, Xu's CV
+title: Xue, Xu
 ---
 # Xue, Xu
 
