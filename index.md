@@ -58,7 +58,7 @@ Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/)
 Helped in maintaining CI/CD pipeline.
 
 `Jul2018–Aug2018`
-__Intern Frontend Developer (part-time trainee), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
+__Frontend Dev Trainee (part-time), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
 
 Project: Namiya General Store (e-com)
 
