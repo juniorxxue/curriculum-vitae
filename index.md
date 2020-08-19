@@ -5,8 +5,9 @@ title: Xue, Xu's CV
 # Xue, Xu
 
 <div id="webaddress">
-<a href="xuxue@connect.hku.hk">xuxue@connect.hku.hk</a>
-| <a href="https://www.linkedin.com/in/xu-xue/">My Linkedin Profile</a>
+<a href="xuxue@connect.hku.hk">Mail</a>
+| <a href="https://www.linkedin.com/in/xu-xue/">Linkedin</a>
+| <a href="https://github.com/jrshoe">Github</a>
 </div>
 
 ## Currently
@@ -21,13 +22,9 @@ Function Programming, Domain Specific Languages, Programm Analysis
 `Mar2020-July2020`
 __Graduation Thesis @ Dr. Wenxuan Shi, Nankai University.__
 
+Thesis: CI/CD System Design and Implementation in Racket (Chinese content with English abstract)
+
 Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkinsfile, Flowchart, etc.) and all parse to the same pipeline racket syntax code, with distributed job dispatcher underneath by providing options of Docker and VM.
-
-`Oct2019-Dec2019`
-__Research Intern @ Dr. Xuehai Qian, University of Southern California.__
-
-Researched on graph processing framework and machine learning with focus of distributed training.
-
 
 ## Education
 `2020-now`
@@ -38,22 +35,32 @@ Programming Languages
 __BE, Nankai University.__
 Software Engineering
 
-- Overall GPA: 89.02/100, Ranking: 19/109
+Overall GPA: 89.02/100, Ranking: 19/109
 
 ## Industry Experience
 
 `Mar2020-Aug2020`
 __Intern Engine Programmer, [Lilith Games](https://www.lilithgames.com/en/)__, Shanghai
 
+Project: Avatar
+
 Building tools for Lua runtime debugging on Unity-based game engine.
 
 `Oct2019-Apr2020`
 __Intern Automation Engineer, [Ubisoft China](https://www.ubisoft.com/en-us/)__, Chengdu
 
-Built a distributed SmokeTest framework of game engine automation tools for [For Honor](https://forhonor.ubisoft.com/game/en-us/home/) and helped in maintaining CI/CD pipeline of [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/).
+Project 1): [For Honor](https://forhonor.ubisoft.com/game/en-us/home/)
+
+Built a distributed SmokeTest framework of game engine automation tools in Ranorex.
+
+Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/)
+
+Helped in maintaining CI/CD pipeline.
 
 `Jul2018–Aug2018`
 __Intern Frontend Developer (part-time trainee), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
+
+Project: Namiya General Store (e-com)
 
 Developed an e-commercial website with three entries: buyer, sealer and administrator and implemented NMF algorithm as core logic of User Recommendation System.
 
