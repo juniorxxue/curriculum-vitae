@@ -19,7 +19,7 @@ Markdown is easy, and html/pdf automatic generation is cool.
 I'm too lazy to deal with servers.
 
 ## Why only one page instead of including it into blog?
-Well.. I have no habit of writing blogs, and I have to maintain it printable. So less page, less dirty work.
+Well.. I have no habit of writing blogs, and I have to maintain its printability. So less page, less dirty work.
 
 ## Any disadvantages?
 * It has not been adapted for mobile view.
