@@ -31,8 +31,10 @@ Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkins
 __MPhil, The University of Hong Kong.__
 Programming Languages
 
+<br/>
+
 `2016-2020`
-__BE, Nankai University.__
+__BEng, Nankai University.__
 Software Engineering
 
 Overall GPA: 89.02/100, Ranking: 19/109
@@ -46,6 +48,8 @@ Project: Avatar
 
 Building tools for Lua runtime debugging on Unity-based game engine.
 
+<br/>
+
 `Oct2019-Apr2020`
 __Intern Automation Engineer, [Ubisoft China](https://www.ubisoft.com/en-us/)__, Chengdu
 
@@ -56,6 +60,8 @@ Built a distributed SmokeTest framework of game engine automation tools in Ranor
 Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/)
 
 Helped in maintaining CI/CD pipeline.
+
+<br/>
 
 `Jul2018–Aug2018`
 __Frontend Dev Trainee (part-time), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
