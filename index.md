@@ -72,9 +72,9 @@ Developed an e-commercial website with three entries: buyer, sealer and administ
 
 ### Skillset
 
-- Experienced with  Racket, C/C++, Lua and Python.
-- Familiar with Java, Swift, C\#, Web(HTML, CSS, JavaScript) and Ruby.
-- Some knowledge of Coq, SML, UML and Matlab.
+- Experienced with Racket (DSLs Design), C++ (Desktop Dev), Lua (API Embedded) and Python (Data Process).
+- Familiar with C (System Dev), Swift (iOS Dev), C# (Test Automation), Web(HTML, CSS, JavaScript).
+- Some knowledge of Ruby, Coq, SML, UML and Matlab.
 - Comfortable with Emacs, macOS, Linux and Windows environments.
 - Fluent in English Speaking (TOEFL: 106) and Academic Writing (GRE: 320)
 
