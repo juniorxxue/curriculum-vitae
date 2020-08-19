@@ -21,12 +21,12 @@ Function Programming, Domain Specific Languages, Programm Analysis
 `Mar. 2020-July. 2020`
 __Graduation Thesis @ Dr. Wenxuan Shi, Nankai University.__
 
-- Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkinsfile, Flowchart, etc.) and all parse to the same pipeline racket syntax code, with distributed job dispatcher underneath by providing options of Docker and VM.
+Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkinsfile, Flowchart, etc.) and all parse to the same pipeline racket syntax code, with distributed job dispatcher underneath by providing options of Docker and VM.
 
 `Oct. 2019-Dec. 2019`
 __Research Intern @ Dr. Xuehai Qian, University of Southern California.__
 
-- Researched on graph processing framework and machine learning with focus of distributed training.
+Researched on graph processing framework and machine learning with focus of distributed training.
 
 
 ## Education
@@ -45,17 +45,17 @@ Software Engineering
 `Mar. 2020-Aug. 2020`
 __Intern Engine Programmer, [Lilith Games](https://www.lilithgames.com/en/)__, Shanghai
 
-- Building tools for Lua runtime debugging on Unity-based game engine.
+Building tools for Lua runtime debugging on Unity-based game engine.
 
 `Oct. 2019-Apr. 2020`
 __Intern Automation Engineer, [Ubisoft China](https://www.ubisoft.com/en-us/)__, Chengdu
 
-- Built a distributed SmokeTest framework of game engine automation tools for [For Honor](https://forhonor.ubisoft.com/game/en-us/home/) and helped in maintaining CI/CD pipeline of [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/).
+Built a distributed SmokeTest framework of game engine automation tools for [For Honor](https://forhonor.ubisoft.com/game/en-us/home/) and helped in maintaining CI/CD pipeline of [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/).
 
 `Jul. 2018–Aug. 2018`
 __Intern Frontend Developer (part-time trainee), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
 
-- Developed an e-commercial website with three entries: buyer, sealer and administrator and implemented NMF algorithm as core logic of User Recommendation System.
+Developed an e-commercial website with three entries: buyer, sealer and administrator and implemented NMF algorithm as core logic of User Recommendation System.
 
 ### Skillset
 
