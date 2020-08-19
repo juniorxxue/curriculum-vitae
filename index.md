@@ -27,7 +27,7 @@ Thesis: CI/CD System Design and Implementation in Racket (Chinese content with E
 Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkinsfile, Flowchart, etc.) and all parse to the same pipeline racket syntax code, with distributed job dispatcher underneath by providing options of Docker and VM.
 
 ## Education
-`2020-now`
+`2020-present`
 __MPhil, The University of Hong Kong.__
 Programming Languages
 
