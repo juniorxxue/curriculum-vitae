@@ -24,4 +24,4 @@ Well.. I have no habit of writing blogs, and I have to maintain its printability
 ## Any disadvantages?
 * It has not been adapted for mobile view.
 * Font varies on differnt platforms.
-* MMYYYY sometimes overlaps with paragraphs.
+* MMYYYY sometimes overlaps onto paragraphs.
