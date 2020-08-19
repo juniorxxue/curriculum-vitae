@@ -14,7 +14,7 @@ title: Xue, Xu's CV
 
 First year MPhil student in Programming Languages under supervision of Dr. Bruno Oliveira
 
-### Research interests
+## Research interests
 
 Function Programming, Domain Specific Languages, Programm Analysis
 
@@ -70,7 +70,7 @@ Project: Namiya General Store (e-com)
 
 Developed an e-commercial website with three entries: buyer, sealer and administrator and implemented NMF algorithm as core logic of User Recommendation System.
 
-### Skillset
+## Skillset
 
 - Experienced with Racket, C++, Lua and Python.
 - Familiar with C (System Dev), Swift (iOS Dev), C# (Test Automation), Web.
