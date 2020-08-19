@@ -19,7 +19,7 @@ First year MPhil student in Programming Languages under supervision of Dr. Bruno
 Function Programming, Domain Specific Languages, Programm Analysis
 
 ## Research Experience
-`Mar2020-July2020`
+`Mar2020-Jul2020`
 __Graduation Thesis @ Dr. Wenxuan Shi, Nankai University.__
 
 Thesis: CI/CD System Design and Implementation in Racket (Chinese content with English abstract)
