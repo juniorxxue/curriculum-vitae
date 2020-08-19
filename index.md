@@ -5,7 +5,7 @@ title: Xue, Xu's CV
 # Xue, Xu
 
 <div id="webaddress">
-<a href="xuxue@connect.hku.hk">Mail</a>
+<a href="mailto:xuxue@connect.hku.hk">Mail</a>
 | <a href="https://www.linkedin.com/in/xu-xue/">Linkedin</a>
 | <a href="https://github.com/jrshoe">Github</a>
 </div>
