@@ -16,7 +16,7 @@ First year MPhil student in Programming Languages under supervision of Dr. Bruno
 
 ## Research interests
 
-Function Programming, Domain Specific Languages, Programm Analysis
+Functional Programming, Domain Specific Languages, Programm Analysis
 
 ## Research Experience
 `Mar2020-Jul2020`
