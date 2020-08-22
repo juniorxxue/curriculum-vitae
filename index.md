@@ -12,7 +12,7 @@ title: Xue, Xu
 
 ## Currently
 
-First year MPhil student in Programming Languages under supervision of Dr. Bruno Oliveira
+First year MPhil student in Programming Languages under supervision of [Dr. Bruno Oliveira](https://i.cs.hku.hk/~bruno/)
 
 ## Research interests
 
@@ -28,13 +28,13 @@ Built a CI/CD System in a Racket way: various user interface (Travis CI, Jenkins
 
 ## Education
 `2020-present`
-__MPhil, The University of Hong Kong.__
+__MPhil, [The University of Hong Kong](https://www.hku.hk).__
 Programming Languages
 
 <br/>
 
 `2016-2020`
-__BEng, Nankai University.__
+__BEng, [Nankai University](http://en.nankai.edu.cn).__
 Software Engineering
 
 Overall GPA: 89.02/100, Ranking: 19/109
