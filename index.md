@@ -20,7 +20,7 @@ Functional Programming, Domain Specific Languages, Programm Analysis
 
 ## Research Experience
 `Mar2020-Jul2020`
-__Graduation Thesis @ Dr. Wenxuan Shi, Nankai University.__
+__Graduation Thesis @ Dr. Shi, Wenxuan, Nankai University.__
 
 Thesis: CI/CD System Design and Implementation in Racket (Chinese content with English abstract)
 
@@ -44,7 +44,7 @@ Overall GPA: 89.02/100, Ranking: 19/109
 `Mar2020-Aug2020`
 __Intern Engine Programmer, [Lilith Games](https://www.lilithgames.com/en/)__, Shanghai
 
-Project: Avatar
+Project: Avatar, Supervisor: Ja, Ke (Jakey)
 
 Building tools for Lua runtime debugging on Unity-based game engine.
 
@@ -53,11 +53,11 @@ Building tools for Lua runtime debugging on Unity-based game engine.
 `Oct2019-Apr2020`
 __Intern Automation Engineer, [Ubisoft China](https://www.ubisoft.com/en-us/)__, Chengdu
 
-Project 1): [For Honor](https://forhonor.ubisoft.com/game/en-us/home/)
+Project 1): [For Honor](https://forhonor.ubisoft.com/game/en-us/home/), Supervisor: Fu, Chongbing (Bing)
 
 Built a distributed SmokeTest framework of game engine automation tools in Ranorex.
 
-Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/)
+Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/), Supervisor: Xiao, Wenhan (Hans)
 
 Helped in maintaining CI/CD pipeline.
 
