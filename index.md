@@ -14,9 +14,13 @@ title: Xue, Xu
 
 First year MPhil student in Programming Languages under supervision of [Dr. Bruno Oliveira](https://i.cs.hku.hk/~bruno/)
 
+## Address
+
+G02, Research Student Center, The University of Hong Kong
+
 ## Research interests
 
-Functional Programming, Domain Specific Languages, Programm Analysis
+Type Theory, Functional Programming
 
 ## Research Experience
 `Mar2020-Jul2020`
@@ -80,4 +84,4 @@ Developed an e-commercial website with three entries: buyer, sealer and administ
 
 <!-- ### Footer
 
-Last updated: Aug 2020 -->
+Last updated: Oct 2020 -->
