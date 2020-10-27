@@ -14,8 +14,6 @@ title: Xue, Xu
 
 First year MPhil student in Programming Languages under supervision of [Dr. Bruno Oliveira](https://i.cs.hku.hk/~bruno/)
 
-## Address
-
 G02, Research Student Center, The University of Hong Kong
 
 ## Research interests
