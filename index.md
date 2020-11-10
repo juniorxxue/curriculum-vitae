@@ -7,7 +7,7 @@ title: Xue, Xu
 <div id="webaddress">
 <a href="mailto:xuxue@connect.hku.hk">Mail</a>
 | <a href="https://www.linkedin.com/in/xu-xue/">Linkedin</a>
-| <a href="https://github.com/jrshoe">Github</a>
+| <a href="https://github.com/juniorxxue">Github</a>
 </div>
 
 ## Currently
@@ -64,13 +64,6 @@ Project 2): [Skulls & Bones](https://skullandbones.ubisoft.com/game/en-us/home/)
 Helped in maintaining CI/CD pipeline.
 
 <br/>
-
-`Jul2018–Aug2018`
-__Frontend Dev Trainee (part-time), [Chinasoft International](http://www.chinasofti.com/en/)__, Tianjin
-
-Project: Namiya General Store (e-com)
-
-Developed an e-commercial website with three entries: buyer, sealer and administrator and implemented NMF algorithm as core logic of User Recommendation System.
 
 ## Skillset
 
