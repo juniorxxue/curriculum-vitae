@@ -4,12 +4,6 @@ title: Xue, Xu
 ---
 # Xue, Xu
 
-<div id="webaddress">
-<a href="mailto:xuxue@connect.hku.hk">Mail</a>
-| <a href="https://www.linkedin.com/in/xu-xue/">Linkedin</a>
-| <a href="https://github.com/juniorxxue">Github</a>
-</div>
-
 ## Currently
 
 First year MPhil student in Programming Languages under supervision of [Dr. Bruno Oliveira](https://i.cs.hku.hk/~bruno/)
