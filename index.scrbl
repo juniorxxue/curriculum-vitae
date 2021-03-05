@@ -6,7 +6,7 @@ Some facts you may want to know:
  
 @itemlist[@item{I'm currently a first-year MPhil student at The University of Hong Kong.}
           @item{I'm a proud member of @hyperlink["https://hkuplg.github.io"]{HKU Programming Languages Group}.}
-          @item{I've got my Bachelor's degree in Nankai University.}
+          @item{I've got my Bachelor's degree at Nankai University in 2020.}
           @item{I'm a Racket/Lisp Fan, a half Emacs Lover and a Haskell noob.}]
  
 @section{Research interests}
@@ -17,7 +17,7 @@ Some facts you may want to know:
           @item{Object-Oriented Programming}]
 
 
-@section{Research Experience}
+@section{Research Projects}
 
 Programming Languages
 
@@ -29,7 +29,7 @@ Programming Languages
 
 Apply techniques from Let Argument Go First into Disjoint Intersection Type System to remove useless typing annoations.
 
-@subsection{CI/CD System in Racket}
+@subsection{CI/CD System by Racket}
 
 @italic{Graduate Thesis at Nankai University}
 
@@ -39,7 +39,7 @@ Built a CI/CD System in a Racket way,
 various user interface and all parse to the same pipeline racket syntax code,
 with distributed job dispatcher underneath by providing options of Docker and VM.
 
-@section{Industry Experience}
+@section{Internships}
 
 Game Development
 
