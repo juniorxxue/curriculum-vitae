@@ -1,8 +1,14 @@
 #lang scribble/manual
  
 @title{Xue, Xu}
+
+Some facts you may want to know:
  
-I'm currently a first-year MPhil student in HKU, and a proud member of HKU Programming Languages Group.
+@itemlist[@item{I'm currently a first-year student at The University of Hong Kong.}
+          @item{I'm a proud member of HKU Programming Languages Group.}
+          @item{I've got my Bachelor's degree in Nankai University.}
+          @item{I'm a Racket/Lisp Fan, a half Emacs Lover and a Haskell noob.}
+          @item{My Chinese name is 薛旭, which pronounces like shoe-shoe (kiddin :-p}]
  
 @section{Research interests}
  
@@ -10,6 +16,7 @@ I'm currently a first-year MPhil student in HKU, and a proud member of HKU Progr
           @item{Type System}
           @item{Functional Programming}
           @item{Object-Oriented Programming}]
+
 
 @section{Research Experience}
 
