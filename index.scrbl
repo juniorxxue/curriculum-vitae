@@ -4,11 +4,10 @@
 
 Some facts you may want to know:
  
-@itemlist[@item{I'm currently a first-year student at The University of Hong Kong.}
-          @item{I'm a proud member of HKU Programming Languages Group.}
+@itemlist[@item{I'm currently a first-year MPhil student at The University of Hong Kong.}
+          @item{I'm a proud member of @hyperlink["https://hkuplg.github.io"]{HKU Programming Languages Group}.}
           @item{I've got my Bachelor's degree in Nankai University.}
-          @item{I'm a Racket/Lisp Fan, a half Emacs Lover and a Haskell noob.}
-          @item{My Chinese name is 薛旭, which pronounces like shoe-shoe (kiddin :-p}]
+          @item{I'm a Racket/Lisp Fan, a half Emacs Lover and a Haskell noob.}]
  
 @section{Research interests}
  
