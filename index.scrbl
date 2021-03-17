@@ -51,10 +51,18 @@ Game Development
 
 Building tools for Lua runtime debugging on Unity-based game engine.
 
-@subsection{For Honor, Skulls & Bones}
+@subsection{Skulls & Bones}
 
 @italic{Intern Devops at Ubisoft China}
 
-@italic{October. 2019 - April. 2020}
+@italic{January. 2020 - April. 2020}
 
-Built a distributed SmokeTest framework of game engine automation tools in Ranorex and improved its CI/CD pipeline.
+Maintained and improved its CI/CD pipeline.
+
+@subsection{For Honor}
+
+@italic{Intern Automation at Ubisoft China}
+
+@italic{October. 2019 - January. 2020}
+
+Built a distributed SmokeTest framework of game engine automation tools in Ranorex.
