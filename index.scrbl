@@ -2,7 +2,7 @@
 
 @title[#:style '(no-toc no-sidebar)
        #:version ""
-       #:tag "xu-xue"]{Xu Xue @image{images/chinesename.PNG}}
+       #:tag "xu-xue"]{Xu Xue}
 
 Some facts you may want to know:
 
