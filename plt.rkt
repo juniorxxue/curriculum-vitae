@@ -1,8 +1,8 @@
 #lang scribble/manual
 
-@title[#:style '(no-toc no-sidebar)
+@title[#:style '(no-toc)
        #:version ""
-       #:tag "plt"]{Programming Language Theory}
+       #:tag "plt"]{Programming Languages}
 
 @section[#:style 'unnumbered
          #:tag "current"]{Currently Reading}
@@ -18,7 +18,9 @@
           ]
 
 @section[#:style 'unnumbered
-         #:tag "no-date"]{Previously (unordered)}
+         #:tag "no-date"]{Previously}
+
+incomplete, unordered and classic.
 
 @itemlist[
  @item{@hyperlink["https://youtu.be/-J_xL4IGhJA"]{MIT 6.001 SICP} by Harold Abelson, Gerald Jay Sussman, Julie Sussman}
