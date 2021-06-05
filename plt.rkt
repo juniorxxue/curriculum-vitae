@@ -7,8 +7,7 @@
 @section[#:style 'unnumbered
          #:tag "current"]{Currently Reading}
 
-@itemlist[@item{Book: Haskell Programming from First Principles}
-          @item{Book: Types and Programming Languages}
+@itemlist[@item{Book: Types and Programming Languages}
           ]
 
 @section[#:style 'unnumbered
@@ -17,6 +16,7 @@
 @itemlist[@item{@hyperlink["https://xavierleroy.org/CdF/2018-2019/"]{Programming = Proving? The Curry-Howard correspondence today} by Xavier Leroy}
           @item{POPL: JavaScript Instrumentation for Browser Security}
           @item{Course: @hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
+          @item{Book: Haskell Programming from First Principles}
           ]
 
 @section[#:style 'unnumbered
@@ -40,4 +40,5 @@ incomplete, unordered and classic.
  @item{@hyperlink["https://youtu.be/-J_xL4IGhJA"]{MIT 6.001 SICP} by Harold Abelson, Gerald Jay Sussman, Julie Sussman}
  @item{@hyperlink["https://courses.cs.washington.edu/courses/cse341/"]{UW CSE341 Programming Languages} by Dan Grossman}
  @item{@hyperlink["http://www.cs.cmu.edu/~fp/courses/15317-f17/"]{CMU 15-317 Constructive Logic} by Frank Pfenning}
+ @item{@hyperlink["https://softwarefoundations.cis.upenn.edu"]{Software Foundations Vol. 1, Vol. 2} by Benjamin C. Pierce}
  ]
