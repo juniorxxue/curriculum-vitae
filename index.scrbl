@@ -9,7 +9,8 @@ Some facts you may want to know:
 @itemlist[@item{I'm currently a first-year MPhil student at @hyperlink["https://www.cs.hku.hk/people/research-student"]{The University of Hong Kong.}}
           @item{I'm a proud member of @hyperlink["https://hkuplg.github.io"]{HKU Programming Languages Group}.}
           @item{I've got my Bachelor's degree at @hyperlink["https://en.nankai.edu.cn"]{Nankai University} in 2020.}
-          @item{I'm a Racket/Lisp Fan, a Emacs Enthusiast and a Haskell Noob.}]
+          @item{I'm a Racket/Lisp Fan, a Emacs Enthusiast and a Haskell Noob.}
+          @item{I'm maintaining a @hyperlink["plt.html"]{List} of my PL roadmap.}]
  
 @section[#:style 'unnumbered
          #:tag "interests"]{Research interests}
