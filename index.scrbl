@@ -71,4 +71,4 @@ G02, Research Student Centre, Haking Wong Building
 
 The University of Hong Kong, Hong Kong SAR
 
-Social Media: @hyperlink["https://github.com/juniorxxue"]{Github} - @hyperlink["https://www.linkedin.com/in/xu-xue/"]{Linkedin} - @hyperlink["https://www.goodreads.com/user/show/128690109-xu-xue"]{GoodReads} - @hyperlink["https://stackoverflow.com/users/8832133/xu-x"]{Stack Overflow}
+Social Media: @hyperlink["https://github.com/juniorxxue"]{Github} - @hyperlink["https://www.linkedin.com/in/xu-xue/"]{Linkedin} - @hyperlink["https://www.instagram.com/juniorxxue/"]{Instagram} - @hyperlink["https://stackoverflow.com/users/8832133/xu-x"]{Stack Overflow}
