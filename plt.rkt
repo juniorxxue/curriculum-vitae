@@ -7,8 +7,8 @@
 @section[#:style 'unnumbered
          #:tag "current"]{Currently Reading}
 
-@itemlist[@item{Haskell Programming from First Principles}
-          @item{Types and Programming Languages}
+@itemlist[@item{Book: Haskell Programming from First Principles}
+          @item{Book: Types and Programming Languages}
           ]
 
 @section[#:style 'unnumbered
@@ -16,7 +16,7 @@
 
 @itemlist[@item{@hyperlink["https://xavierleroy.org/CdF/2018-2019/"]{Programming = Proving? The Curry-Howard correspondence today} by Xavier Leroy}
           @item{POPL: JavaScript Instrumentation for Browser Security}
-          @item{@hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
+          @item{Course: @hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
           ]
 
 @section[#:style 'unnumbered
@@ -26,7 +26,9 @@
           @item{POPL: Compositional shape analysis by means of bi-abduction}
           @item{POPL: Multiparty asynchronous session types}
           @item{ICDCIT: A Very Gentle Introduction to Multiparty Session Types}
-          @item{@hyperlink["https://youtu.be/R7pJDDNy--k"]{Linear Logic, Session Types and Deadlock-Freedom}}
+          @item{Talk: @hyperlink["https://youtu.be/R7pJDDNy--k"]{Linear Logic, Session Types and Deadlock-Freedom}}
+          @item{Slides: Featherweight Java by David Walker}
+          @item{Talk: @hyperlink["https://youtu.be/IOiZatlZtGU"]{"Propositions as Types" by Philip Wadler}}
  ]
 
 @section[#:style 'unnumbered
