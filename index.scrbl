@@ -10,7 +10,7 @@ Some facts you may want to know:
           @item{I'm a proud member of @hyperlink["https://hkuplg.github.io"]{HKU Programming Languages Group}.}
           @item{I've got my Bachelor's degree at @hyperlink["https://en.nankai.edu.cn"]{Nankai University} in 2020.}
           @item{I'm a Racket/Lisp Fan, a Emacs Enthusiast and a Haskell Noob.}
-          @item{I'm maintaining a @hyperlink["plt.html"]{List} of my PL roadmap.}]
+          @item{I'm maintaining @hyperlink["plt.html"]{a List of my PL roadmap}.}]
  
 @section[#:style 'unnumbered
          #:tag "interests"]{Research interests}

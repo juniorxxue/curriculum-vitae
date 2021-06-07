@@ -19,6 +19,7 @@ Roadmap of learning PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{POPL: JavaScript Instrumentation for Browser Security}
           @item{Course: @hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
           @item{Book: Haskell Programming from First Principles}
+          @item{PLDI: Higher-Order Abstract Syntax}
           ]
 
 @section[#:style 'unnumbered
