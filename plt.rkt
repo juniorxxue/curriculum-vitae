@@ -20,6 +20,12 @@ Roadmap of learning PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{Course: @hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
           @item{Book: Haskell Programming from First Principles}
           @item{PLDI: Higher-Order Abstract Syntax}
+          @item{Talk: @hyperlink["https://youtu.be/8DdyWgRYEeI"]{Embedded DSLs in Haskell} by Phil Freeman}
+          @item{Talk: @hyperlink["https://youtu.be/d36y3NYmxH8"]{Higher Order Abstract Syntax} by Devon Stewart}
+          @item{Talk: @hyperlink["https://youtu.be/IYzDFHx6QPY"]{The lazy programmer's guide to writing thousands of tests} by Scott Wlaschin}
+          @item{Tutorial: @hyperlink["http://davidchristiansen.dk/tutorials/nbe/"]{Checking Dependent Types with Normalization by Evaluation: A Tutorial} by David Thrane Christiansen}
+          @item{Talk: @hyperlink["https://youtu.be/Ju3KKu_mthg"]{Continuations: The Swiss Army Knife of Flow Control} by Janathan Bartlett}
+          @item{@hyperlink["https://www.seas.harvard.edu/courses/cs252/2016fa/"]{Harvard CS252r: History of Programming Languages}}
           ]
 
 @section[#:style 'unnumbered
