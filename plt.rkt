@@ -4,7 +4,7 @@
        #:version ""
        #:tag "plt"]{Programming Languages}
 
-Roadmap of learning PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
+Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
 
 @section[#:style 'unnumbered
          #:tag "current"]{Currently Reading}
