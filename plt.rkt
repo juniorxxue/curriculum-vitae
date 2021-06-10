@@ -10,6 +10,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "current"]{Currently Reading}
 
 @itemlist[@item{Book: Types and Programming Languages}
+          @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}
           ]
 
 @section[#:style 'unnumbered
@@ -26,6 +27,8 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{Tutorial: @hyperlink["http://davidchristiansen.dk/tutorials/nbe/"]{Checking Dependent Types with Normalization by Evaluation: A Tutorial} by David Thrane Christiansen}
           @item{Talk: @hyperlink["https://youtu.be/Ju3KKu_mthg"]{Continuations: The Swiss Army Knife of Flow Control} by Janathan Bartlett}
           @item{@hyperlink["https://www.seas.harvard.edu/courses/cs252/2016fa/"]{Harvard CS252r: History of Programming Languages}}
+          @item{Tutorial: @hyperlink["https://www.greghendershott.com/fear-of-macros/index.html"]{Fear of Macros} by Greg Hendershott}
+          @item{Talk: @hyperlink["https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions"]{Fun with type functions} by Simon Peyton Jones}
           ]
 
 @section[#:style 'unnumbered
