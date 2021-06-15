@@ -10,7 +10,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "current"]{Currently Reading}
 
 @itemlist[@item{Book: Types and Programming Languages}
-          @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}
+          @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}          
           ]
 
 @section[#:style 'unnumbered
@@ -29,8 +29,10 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{@hyperlink["https://www.seas.harvard.edu/courses/cs252/2016fa/"]{Harvard CS252r: History of Programming Languages}}
           @item{Tutorial: @hyperlink["https://www.greghendershott.com/fear-of-macros/index.html"]{Fear of Macros} by Greg Hendershott}
           @item{Talk: @hyperlink["https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions"]{Fun with type functions} by Simon Peyton Jones}
-          @item{Post: @hyperlink["https://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html"]{How to desugar Haskell code}}
+          @item{Article: @hyperlink["https://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html"]{How to desugar Haskell code}}
           @item{OOPSLA: On Understanding Data Abstraction, Revisited}
+          @item{Talk: @hyperlink["https://youtu.be/kkTFx3-duc8"]{Scala with Style} by Martin Odersky}
+          @item{Article: @hyperlink["http://okmij.org/ftp/tagless-final/course/Boehm-Berarducci.html"]{Beyond Church encoding: Boehm-Berarducci isomorphism of algebraic data types and polymorphic lambda-terms}}
           ]
 
 @section[#:style 'unnumbered
