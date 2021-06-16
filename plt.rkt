@@ -33,6 +33,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{OOPSLA: On Understanding Data Abstraction, Revisited}
           @item{Talk: @hyperlink["https://youtu.be/kkTFx3-duc8"]{Scala with Style} by Martin Odersky}
           @item{Article: @hyperlink["http://okmij.org/ftp/tagless-final/course/Boehm-Berarducci.html"]{Beyond Church encoding: Boehm-Berarducci isomorphism of algebraic data types and polymorphic lambda-terms}}
+          @item{Article: @hyperlink["https://lexi-lambda.github.io/blog/2016/02/18/simple-safe-multimethods-in-racket/"]{Simple, safe multimethods in Racket}}
           ]
 
 @section[#:style 'unnumbered
