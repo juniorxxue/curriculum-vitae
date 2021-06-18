@@ -17,10 +17,10 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "202106"]{2021 Jun}
 
 @itemlist[@item{@hyperlink["https://xavierleroy.org/CdF/2018-2019/"]{Programming = Proving? The Curry-Howard correspondence today} by Xavier Leroy}
-          @item{POPL: JavaScript Instrumentation for Browser Security}
+          @item{POPL'07: JavaScript Instrumentation for Browser Security}
           @item{Course: @hyperlink["https://www.youtube.com/c/njwildberger/search?query=logic"]{A brief history of logic} by NJ Wildberger}
           @item{Book: Haskell Programming from First Principles}
-          @item{PLDI: Higher-Order Abstract Syntax}
+          @item{PLDI'88: Higher-Order Abstract Syntax}
           @item{Talk: @hyperlink["https://youtu.be/8DdyWgRYEeI"]{Embedded DSLs in Haskell} by Phil Freeman}
           @item{Talk: @hyperlink["https://youtu.be/d36y3NYmxH8"]{Higher Order Abstract Syntax} by Devon Stewart}
           @item{Talk: @hyperlink["https://youtu.be/IYzDFHx6QPY"]{The lazy programmer's guide to writing thousands of tests} by Scott Wlaschin}
@@ -30,10 +30,12 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{Tutorial: @hyperlink["https://www.greghendershott.com/fear-of-macros/index.html"]{Fear of Macros} by Greg Hendershott}
           @item{Talk: @hyperlink["https://channel9.msdn.com/posts/MDCC-TechTalk-Fun-with-type-functions"]{Fun with type functions} by Simon Peyton Jones}
           @item{Article: @hyperlink["https://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html"]{How to desugar Haskell code}}
-          @item{OOPSLA: On Understanding Data Abstraction, Revisited}
+          @item{OOPSLA'09: On Understanding Data Abstraction, Revisited}
           @item{Talk: @hyperlink["https://youtu.be/kkTFx3-duc8"]{Scala with Style} by Martin Odersky}
           @item{Article: @hyperlink["http://okmij.org/ftp/tagless-final/course/Boehm-Berarducci.html"]{Beyond Church encoding: Boehm-Berarducci isomorphism of algebraic data types and polymorphic lambda-terms}}
           @item{Article: @hyperlink["https://lexi-lambda.github.io/blog/2016/02/18/simple-safe-multimethods-in-racket/"]{Simple, safe multimethods in Racket}}
+          @item{POPL'06: Formal Certification of a Compiler Back-end or: Programming a Compiler with a Proof Assistant}
+          @item{POPL'17: Type Systems as Macros}
           ]
 
 @section[#:style 'unnumbered
