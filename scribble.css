@@ -1,15 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Molengo');
 
-/* This file is used by default by all Scribble documents.
-   See also "manual.css", which is added by default by the
-   `scribble/manual` language. */
+html * {
+    font-family: 'Molengo', sans-serif;
+}
 
-/* CSS seems backward: List all the classes for which we want a
-   particular font, so that the font can be changed in one place.  (It
-   would be nicer to reference a font definition from all the places
-   that we want it.)
+.tocset {
+  display: none;
+}
 
-   As you read the rest of the file, remember to double-check here to
-   see if any font is set. */
+.versionbox {
+  display: none;
+}
 
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
@@ -84,7 +85,7 @@ table p {
 
 body {
   color: black;
-  background-color: #ffffff;
+  background-color: #fffff0;
 }
 
 table td {
