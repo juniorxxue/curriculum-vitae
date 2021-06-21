@@ -36,6 +36,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{Article: @hyperlink["https://lexi-lambda.github.io/blog/2016/02/18/simple-safe-multimethods-in-racket/"]{Simple, safe multimethods in Racket}}
           @item{POPL'06: Formal Certification of a Compiler Back-end or: Programming a Compiler with a Proof Assistant}
           @item{POPL'17: Type Systems as Macros}
+          @item{@hyperlink["http://okmij.org/ftp/tagless-final/course/index.html"]{Typed Tagless-Final Interpretations: Introductory Course}}
           ]
 
 @section[#:style 'unnumbered
