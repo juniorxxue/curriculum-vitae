@@ -10,7 +10,8 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "current"]{Currently Reading}
 
 @itemlist[@item{Book: Types and Programming Languages}
-          @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}          
+          @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}
+          @item{Paperlist: @hyperlink["https://www.sigplan.org/Awards/POPL/"]{Most Influential POPL Paper Award}}
           ]
 
 @section[#:style 'unnumbered
@@ -37,6 +38,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{POPL'06: Formal Certification of a Compiler Back-end or: Programming a Compiler with a Proof Assistant}
           @item{POPL'17: Type Systems as Macros}
           @item{@hyperlink["http://okmij.org/ftp/tagless-final/course/index.html"]{Typed Tagless-Final Interpretations: Introductory Course}}
+          @item{ICFP'14: Folding Domain-Specific Languages: Deep and Shallow Embedding}
           ]
 
 @section[#:style 'unnumbered
