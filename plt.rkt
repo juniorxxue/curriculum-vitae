@@ -10,6 +10,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
          #:tag "current"]{Currently Reading}
 
 @itemlist[@item{Book: Types and Programming Languages}
+          @item{Book: Type-Driven Development with Idris}
           @item{Paperlist: @hyperlink["https://wiki.haskell.org/Research_papers/Functional_pearls"]{Functional Pearls}}
           @item{Paperlist: @hyperlink["https://www.sigplan.org/Awards/POPL/"]{Most Influential POPL Paper Award}}
           ]
@@ -39,6 +40,8 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{POPL'17: Type Systems as Macros}
           @item{@hyperlink["http://okmij.org/ftp/tagless-final/course/index.html"]{Typed Tagless-Final Interpretations: Introductory Course}}
           @item{ICFP'14: Folding Domain-Specific Languages: Deep and Shallow Embedding}
+          @item{Article: @hyperlink["https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html"]{24 Days of GHC Extensions}}
+          @item{Slides: @hyperlink["https://github.com/lambdaconf/lambdaconf-2018/blob/master/LC18-slides/ghc-tt.pdf"]{Type theory behind GHC internals}}
           ]
 
 @section[#:style 'unnumbered
