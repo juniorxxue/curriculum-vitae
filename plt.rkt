@@ -42,6 +42,7 @@ Bookmark of PL by @hyperlink["https://xuxue.pl"]{Xu Xue}
           @item{ICFP'14: Folding Domain-Specific Languages: Deep and Shallow Embedding}
           @item{Article: @hyperlink["https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html"]{24 Days of GHC Extensions}}
           @item{Slides: @hyperlink["https://github.com/lambdaconf/lambdaconf-2018/blob/master/LC18-slides/ghc-tt.pdf"]{Type theory behind GHC internals}}
+          @item{Article: @hyperlink["https://serokell.io/blog/type-families-haskell"]{Type Families in Haskell: The Definitive Guide}}
           ]
 
 @section[#:style 'unnumbered
